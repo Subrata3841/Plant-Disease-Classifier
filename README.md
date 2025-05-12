@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌿 Plant Disease Classifier
 
 <p align="center">
@@ -73,3 +74,6 @@ The application uses a custom CNN architecture with the following components:
 - Fully connected layers with dropout for regularization
 - Trained on the PlantVillage dataset with data augmentation techniques
 - Achieves 96.5% accuracy on the test set
+=======
+# Plant-Disease-Classifier
+>>>>>>> fc8634d5afbea9e51bbbb6b129670ea831dffb7a
